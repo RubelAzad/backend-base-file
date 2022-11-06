@@ -1,0 +1,15 @@
+{
+    "Base": true,
+    "Category": true,
+    "System": true,
+    "Supplier": false,
+    "Customer": false,
+    "Product": true,
+    "Purchase": false,
+    "Account": false,
+    "Expense": false,
+    "Sale": false,
+    "HRM": false,
+    "Report": false,
+    "Stock": false
+}
